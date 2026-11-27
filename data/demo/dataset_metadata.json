@@ -1,0 +1,17 @@
+{
+  "dataset_title": "Synthetic drought response demo",
+  "organism": "Wheat (synthetic demo)",
+  "scientific_name": "Triticum aestivum (label context only)",
+  "stress_type": "Drought (simulated)",
+  "tissue": "Not specified",
+  "treatment": "Synthetic drought-like condition",
+  "control_condition": "Synthetic control",
+  "number_of_samples": 6,
+  "biological_replicates": 3,
+  "accession": "Not supplied",
+  "source_url": "Not supplied",
+  "publication": "No publication metadata supplied",
+  "experiment_description": "All values and annotations are simulated for interface demonstration.",
+  "analysis_notes": "Synthetic values; not suitable for scientific conclusions.",
+  "data_status": "SYNTHETIC DEMO"
+}
